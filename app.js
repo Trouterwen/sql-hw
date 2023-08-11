@@ -10,7 +10,7 @@ const db = mysql.createConnection(
         password: "lance1234",
         database: "employees_db",
     },
-    console.log(`Connected to the employees_db database.`)
+    console.log(`Connected to employees_db database.`)
 );
 
 db.connect(function (err) {
@@ -63,7 +63,7 @@ function startingQuestion() {
                 addDepartment();
                 break;
             case 'Quit':
-                console.log('Good-Bye!');
+                console.log('GoodBye!');
                 db.end();
                 break;
         }
