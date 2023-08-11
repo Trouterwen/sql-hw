@@ -27,6 +27,12 @@ Follow prompts to enter and select the option you would like
 
 https://drive.google.com/file/d/1SVOnCvprsFryS3ejfxt4ENfoTofJsI9w/view
 
+# Other Links 
+
+Github Repository URL: https://github.com/Trouterwen/sql-hw
+
+Github Read.me link: https://github.com/Trouterwen/sql-hw/blob/main/README.md
+
 # Screenshots:
 ![Alt text](sql-images/node-app.js.jpg)
 ![Alt text](sql-images/sql-workbench.jpg)
